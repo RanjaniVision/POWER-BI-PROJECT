@@ -281,5 +281,3 @@ HR-Analytics-Dashboard
 **Aspiring Data Analyst | Power BI Developer | SQL | Python | Excel**
 
 ---
-
-## ⭐ If you found this project helpful, don't forget to Star this repository!
