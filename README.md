@@ -45,7 +45,8 @@ Developed an interactive Power BI dashboard that enables users to:
 
 # 📊 Dashboard Preview
 
-> *(Insert Dashboard Screenshot Here)*
+<img width="1449" height="841" alt="image" src="https://github.com/user-attachments/assets/27340130-def3-4261-a621-b53f49958ab4" />
+
 
 ```
 Images/HR_Analytics_Dashboard.png
