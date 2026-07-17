@@ -244,8 +244,6 @@ HR-Analytics-Dashboard
 │   └── Dashboard.png
 │
 ├── README.md
-│
-└── LICENSE
 ```
 
 ---
